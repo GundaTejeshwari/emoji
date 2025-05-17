@@ -17,17 +17,3 @@ Emoji Talk is an interactive chatbot that analyzes the user's input text to dete
 - GIPHY API  
 - Requests, JSON, Pandas
 
-## 🚀 How to Run
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/emoji-talk.git
-   cd emoji-talk
-   pip install -r requirements.txt
-   streamlit run app.py
-emoji-talk/
-├── app.py
-├── requirements.txt
-├── assets/
-│   └── logo.png
-└── README.md
